@@ -1,2 +1,9 @@
-# fullstackopen2023-part0
----------------------------------
+
+```mermaid
+sequenceDiagram
+
+User John
+
+
+
+```
